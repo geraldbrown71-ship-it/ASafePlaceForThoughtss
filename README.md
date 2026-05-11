@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Stronger Than Before – Men’s Mental Health</title>
+  <title>ASafePlaceForThoughts – Men’s Mental Health</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
