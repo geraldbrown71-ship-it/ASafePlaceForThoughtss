@@ -1,6 +1,6 @@
 
 <html lang="en">
-![image alt](CB6F6C12-5A2F-4CCD-BD81-280C82AFB74F.PNG)
+![image alt](https://github.com/geraldbrown71-ship-it/ASafePlaceForThoughts/blob/195698e3f7413553a0ae614d343b29c5947d67a1/CB6F6C12-5A2F-4CCD-BD81-280C82AFB74F.PNG)
   <meta charset="UTF-8" />
   <title>ASafePlaceForThoughts – Men’s Mental Health</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
