@@ -691,7 +691,7 @@
   <header>
     <div class="nav">
       <div class="logo">
-        <div class="logo-mark">STB</div>
+        <div class="logo-mark">ASPFT</div>
         <span>Stronger Than Before</span>
       </div>
       <div class="nav-links">
@@ -710,15 +710,13 @@
       <div class="hero">
         <div class="hero-tag">
           <div class="hero-tag-dot"></div>
-          <span>For men who grew up carrying too much, too early.</span>
+          <span>Iam strong enough to be vulnerable and brave enough to feel.</span>
         </div>
         <h1>
           You’re not “too much”&mdash;<span>you’ve just carried too many storms alone.</span>
         </h1>
         <p class="hero-sub">
-          This space is for men who had to grow up fast, who were told to “man up” instead of being asked
-          how they were really doing. Check in with yourself, hear from other men, and build new patterns
-          that don’t start with “I’m fine.”
+          You pushed through.You didnt complain.You buired what hurts and kept moving. That weight doesnt disappear-it builds.This is where you deal with it, without judgemwnt.
         </p>
         <div class="hero-actions">
           <button class="btn-primary" id="startCheckIn">
